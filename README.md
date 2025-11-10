@@ -27,3 +27,8 @@ A machine learning model to predict loan default risk based on  customer financi
    
    • Categorical Encoding: Used LabelEncoder for categorical columns to convert them into numeric form.
                            Encoder fitted on combined train + test columns to ensure consistency.
+   
+4. Feature Engineering
+
+<img width="1329" height="234" alt="Screenshot 2025-11-08 204454" src="https://github.com/user-attachments/assets/24cd368d-aa34-41fe-b563-8df1fba63d50" />
+
